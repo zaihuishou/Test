@@ -1,0 +1,5 @@
+{
+  "enable_feature_x": true,
+  "api_timeout_ms": 15000,
+  "min_app_version": "1.2.0"
+}
